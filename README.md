@@ -4,10 +4,11 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+  Hello 👋 <br>
 --->
 
 <h1 align="center">
-  Hello 👋
+  <img src="https://github.com/Yabanahano/Yabanahano/blob/main/Images/welcome.png" height="500"/>
 </h1>
 <h3 align="center">
   My name is Yabana hinata or you can call me yabanahano. I am student from thailand.
