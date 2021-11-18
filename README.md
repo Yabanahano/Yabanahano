@@ -74,7 +74,7 @@
 </p> 
 
 <p align = "center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yabanahano&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0">
 </p> 
 
 <p align = "center">
