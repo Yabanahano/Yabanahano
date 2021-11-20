@@ -8,7 +8,7 @@
 --->
 
 <h1 align="center">
-  <img src="https://github.com/Yabanahano/Yabanahano/blob/main/Images/welcome%20(1).png"/>
+  <img src="https://github.com/Yabanahano/Yabanahano/blob/main/images/welcome.png" width="600" height="300"/>
 </h1>
 <h3 align="center">
   My name is Yabana hinata or you can call me yabanahano. I am student from thailand.
