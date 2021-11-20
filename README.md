@@ -73,7 +73,3 @@
 <p align = "center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yabanahano&theme=dracula&date_format=j%20M%5B%20Y%5D">
 </p> 
-
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Yabanahano&theme=dracula">
-</p> 
