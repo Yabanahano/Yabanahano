@@ -15,6 +15,7 @@
 </h2>
 
 <h3 align="center">
+- 👀 I’m interested in arduino - <br>
 - 🔭 I’m currently working on POS Sytem - <br>
 - 🌱 I’m currently learning python, nodejs - <br>
 - 📫 How to reach me: Yabanahano#3194 - <br>
