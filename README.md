@@ -61,12 +61,8 @@
 
 <h2 align="center">
   My Github Stats
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  <img src="https://c.tenor.com/PN7Bccnho5wAAAAi/penguin-hi.gif" width="50">
 </h2>
-
-<p align = "center">
- <img src="https://github-profile-trophy.vercel.app/?username=Yabanahano&theme=dracula">
-</p> 
 
 <p align = "center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yabanahano&layout=compact&theme=dracula">
@@ -74,7 +70,7 @@
 </p> 
 
 <p align = "center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yabanahano&show_icons=true&locale=en&layout=compact&theme=dracula&line_height=0">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Yabanahano&theme=dracula&date_format=j%20M%5B%20Y%5D">
 </p> 
 
 <p align = "center">
