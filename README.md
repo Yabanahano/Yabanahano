@@ -48,7 +48,10 @@
   <a href="https://en.wikipedia.org/wiki/JavaScript" target="blank">
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="" height="30" width="40" />
   </a>
-  <br><br>
+  <a href="hhttp://python.org/" target="blank">
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain-wordmark.svg" alt="" height="30" width="40" />
+  </a>
+  <br><br> 
   <a href="http://vscodium.github.io/" target="blank">
     <img align="center" src="https://github.com/VSCodium/vscodium.github.io/blob/master/img/code.png" alt="" height="40" width="40" />
   </a>
@@ -66,10 +69,10 @@
 </h2>
 
 <p align = "center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yabanahano&layout=compact&theme=dracula">
- <img src="https://github-readme-stats.vercel.app/api?username=Yabanahano&show_icons=true&theme=dracula&line_height=27">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yabanahano&layout=compact&theme=tokyonight">
+ <img src="https://github-readme-stats.vercel.app/api?username=Yabanahano&show_icons=true&theme=tokyonight&line_height=27">
 </p> 
 
 <p align = "center">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=Yabanahano&theme=dracula&date_format=j%20M%5B%20Y%5D">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Yabanahano&theme=tokyonight&date_format=j%20M%5B%20Y%5D">
 </p> 
