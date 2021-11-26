@@ -16,8 +16,9 @@
 
 <h3 align="center">
 - 👀 I’m interested in arduino - <br>
-- 🔭 I’m currently working on POS Sytem - <br>
+- 🔭 I’m currently working on something - <br>
 - 🌱 I’m currently learning python, nodejs - <br>
+- ❤️ My favorite programming language is NodeJS,Java,Lua - <br>
 - 📫 How to reach me: Yabanahano#3194 - <br>
 </h3>
  
