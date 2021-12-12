@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   Hello 👋 <br>
+- 👀 I’m interested in arduino - <br>
 --->
 
 <h1 align="center">
@@ -15,7 +16,6 @@
 </h2>
 
 <h3 align="center">
-- 👀 I’m interested in arduino - <br>
 - 🔭 I’m currently working on something - <br>
 - 🌱 I’m currently learning python, nodejs - <br>
 - ❤️ My favorite programming language is NodeJS,Java,Lua - <br>
